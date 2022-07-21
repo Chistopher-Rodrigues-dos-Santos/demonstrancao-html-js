@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&display=swap');
+
+body{
+    margin: 30px auto;
+    text-align: center;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+img{
+    max-width: 300px;
+    border-radius: 5px;
+}
